@@ -1,0 +1,11 @@
+
+
+ApplicationID=55c92734-d682-4d71-983e-d6ec3f16059f
+Description=Windows(R) Operating System, RETAIL channel
+LicenseStatus=1
+Name=Windows(R), Professional edition
+PartialProductKey=3V66T
+
+
+
+

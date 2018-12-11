@@ -1,0 +1,19 @@
+.wrap{
+    width: 400px;
+    margin:auto;
+    background-color: blue;
+}
+
+.content{
+    background: red;
+    float: right;
+    
+}
+aside{
+    background:green;
+    float: left;
+}
+.content,aside{
+    width: 200px;
+    height: 300px;
+}
